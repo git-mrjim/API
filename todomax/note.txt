@@ -1,0 +1,3 @@
+Ok restart mo migration tapos mag specific id ka nalang sa task and item alisin mo narin cobination nila sa serializer 
+yun user lang may id dapat then sa item at task is hindi autoField dapat int
+dapat same sa user nila id nila

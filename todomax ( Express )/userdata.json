@@ -1,0 +1,102 @@
+{
+    "id": 72365354572,
+    "isThemeDark": true,
+    "firstname": "John",
+    "lastname": "Doe",
+    "auth": {
+        "email": "johndoe@email.com",
+        "password": "GrX4ea&%#$W4ac"
+    },
+    "task": [
+        {
+            "title": "Complete Project Proposal",
+            "difficulty": 2,
+            "todo": [
+                {
+                    "difficulty": 1,
+                    "do": "Research similar projects"
+                },
+                {
+                    "difficulty": 2,
+                    "do": "Draft project outline"
+                },
+                {
+                    "difficulty": 3,
+                    "do": "Create detailed timeline"
+                }
+            ]
+        },
+        {
+            "title": "Prepare Presentation Slides",
+            "difficulty": 1,
+            "todo": [
+                {
+                    "difficulty": 1,
+                    "do": "Gather key information"
+                },
+                {
+                    "difficulty": 1,
+                    "do": "Create slide templates"
+                },
+                {
+                    "difficulty": 2,
+                    "do": "Outline presentation content"
+                }
+            ]
+        },
+        {
+            "title": "Finalize Budget Plan",
+            "difficulty": 3,
+            "todo": [
+                {
+                    "difficulty": 2,
+                    "do": "Review expenses"
+                },
+                {
+                    "difficulty": 2,
+                    "do": "Adjust budget allocations"
+                },
+                {
+                    "difficulty": 1,
+                    "do": "Meet with finance team"
+                },
+                {
+                    "difficulty": 1,
+                    "do": "Revise financial projections"
+                },
+                {
+                    "difficulty": 3,
+                    "do": "Obtain approvals"
+                }
+            ]
+        },
+        {
+            "title": "Send Meeting Invitations",
+            "difficulty": 1,
+            "todo": [
+                {
+                    "difficulty": 3,
+                    "do": "Compile attendee list"
+                }
+            ]
+        },
+        {
+            "title": "Update Project Status Report",
+            "difficulty": 2,
+            "todo": [
+                {
+                    "difficulty": 2,
+                    "do": "Collect team updates"
+                },
+                {
+                    "difficulty": 1,
+                    "do": "Summarize progress"
+                },
+                {
+                    "difficulty": 2,
+                    "do": "Review milestone achievements"
+                }
+            ]
+        }
+    ]
+}
